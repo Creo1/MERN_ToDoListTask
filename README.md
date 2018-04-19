@@ -2,7 +2,9 @@
 
 In this app user can perform CRUD operation i.e. add task, view tasks, edit task, delete task.
 
-clone repo from github by typing following command:
+clone repo by running following command:
+
+git clone https://github.com/Creo1/MERN_ToDoListTask.git
 
 
 
